@@ -1,11 +1,11 @@
+> **📌 This repository is a fork of the Exegol Resources repository, based on a version originally licensed under the GPLv3.  
+> If you are looking for the original project, visit [Exegol Resources](https://github.com/ThePorgs/Exegol-resources)**
 
-> **📌 This repository hosts code for Exegol images, a submodule of the Exegol project. 
-> If you were looking for Exegol, go to [the main repo](https://github.com/ShutdownRepo/Exegol)**
-___
+# Resources
 
-# Exegol resources
+This repository hosts various files that can be useful during pentest engagements, bug bounties, CTFs, and other offensive security tasks.
 
-This repository hosts various files that can be useful to Exegol users during pentest engagements, bug bounties, CTFs, and so on.
-These resources are automatically downloaded, loaded and updated by the Exegol wrapper (entrypoint to the project) and can be shared (enabled by default) with Exegol containers.
+## About this fork
 
-More information on [the Exegol documentation](https://exegol.readthedocs.io/en/latest/the-exegol-project/offline-resources.html).
+This project is a fork of [Exegol Resources](https://github.com/ThePorgs/Exegol-resources), created when the repository was still distributed under the **GNU General Public License v3.0 (GPLv3)**.  
+All modifications and redistributions in this fork remain under the terms of the **GPLv3**.
