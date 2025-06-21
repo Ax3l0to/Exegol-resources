@@ -41,3 +41,6 @@
 [submodule "windows/PowerSharpPack"]
 	path = windows/PowerSharpPack
 	url = https://github.com/S3cur3Th1sSh1t/PowerSharpPack
+[submodule "wordlists/rules"]
+	path = wordlists/rules
+	url = https://github.com/Ax3l0to/rules
