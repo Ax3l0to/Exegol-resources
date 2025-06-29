@@ -44,3 +44,6 @@
 [submodule "wordlists/rules"]
 	path = wordlists/rules
 	url = https://github.com/Ax3l0to/rules
+[submodule "wordlists/SecLists"]
+	path = wordlists/SecLists
+	url = https://github.com/danielmiessler/SecLists

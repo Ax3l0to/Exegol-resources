@@ -298,6 +298,8 @@ function update_submodules() {
   add-to-list "nishang,https://github.com/samratashok/nishang,Offensive PowerShell for red team"
   add-to-list "PowerSharpPack,https://github.com/S3cur3Th1sSh1t/PowerSharpPack,Many useful offensive CSharp Projects wraped into Powershell for easy usage."
   add-to-list "Rules,https://github.com/Ax3l0to/rules,Updated version of n0kovo and caeksec Hashcat Rule List"
+  add-to-list "Seclists,https://github.com/danielmiessler/SecLists,Collection of multiple types of lists used during security assessments"
+
 }
 
 function add_ligolo-ng() {
